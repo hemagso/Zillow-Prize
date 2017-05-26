@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#Data directory - Refer to Kaggle to get your own copy
+data
+metadata
