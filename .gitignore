@@ -48,4 +48,10 @@ Temporary Items
 
 #Data directory - Refer to Kaggle to get your own copy
 data
-metadata
+metadata/zillow_data_dictonary.xlsx
+
+#Jupyter Notebook checkpoints
+notebooks\.ipynb_checkpoints
+
+#Windows temporary files
+~*
